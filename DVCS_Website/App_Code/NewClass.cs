@@ -12,6 +12,6 @@ public class NewClass
 	{
 		//
 		// TODO: Add constructor logic here
-		//
+		// this is a comment
 	}
 }
